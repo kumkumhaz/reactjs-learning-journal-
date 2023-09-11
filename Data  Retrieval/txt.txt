@@ -1,0 +1,5 @@
+EVENT LOOP.............
+Event loop tells us how javaScript's functions work.
+
+JavaScript is a single threaded programming language
+Because of the concept of event loop javascript can function more faster
